@@ -1,0 +1,3 @@
+﻿  roster.cpp
+C:\Users\Joe.Maulin\Desktop\ClassRoster\ClassRoster\Code_Files\roster.cpp(91): warning C4715:  'Roster::GetDegreeProgram': not all control paths return a value
+  ClassRoster.vcxproj -> C:\Users\Joe.Maulin\Desktop\ClassRoster\ClassRoster\Debug\ClassRoster.exe
