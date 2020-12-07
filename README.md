@@ -2,7 +2,7 @@
 A class program that parses inputed string data to instantiate C++ Objects.
 
 ## Introduction
-This is an introductory program to familarize myself with C++ and Object orientated program. It is a fairly simple program, but was an interesting experience to learn some semantics and utilization of C++.
+This is an introductory program to familarize myself with C++ and Object orientated program. It is a fairly simple program, but was an interesting experience to learn some semantics and utilizations of C++.
 
 
 ## Summary
